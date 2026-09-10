@@ -8,7 +8,9 @@ import Registration from "./assets/Registration";
 import Dashboard from "./assets/Dashboard";
 import Login from "./assets/Login";
 import Navbar from "./component/Navbar";
-import NotFound from "./assets/Notfound";
+import NotFound from "./assets/NotFound";
+
+
 
 function App() {
 
